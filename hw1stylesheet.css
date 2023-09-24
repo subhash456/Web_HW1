@@ -1,0 +1,108 @@
+body {
+  background-image: url('background.jpeg');
+  font-family:  sans-serif;
+}
+
+#pictab{
+  border-radius: 20px;
+  background: url(bg.png) ;
+  background-position: left top;
+  padding: 30px; 
+  width:80%;
+  height: 200px;
+  border:0px;
+  border-spacing:10px;   
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img.p  {
+  margin-left: 40%;
+  margin-right: 40%;
+  height:300px;
+  width:20%;
+  display: block;
+}
+
+#name{
+  color: white;
+  font-size:25px;
+  text-align:center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.t1{
+  background-color:rgb(241, 195, 195);
+  color: rgb(233, 237, 237);
+}
+
+.t2{
+  background-color: rgb(171, 207, 241);
+}
+
+.t3{
+  background-color: rgb(144, 238, 144);
+}
+
+#trtag{
+  background-color: rgb(247, 241, 241);
+  color:#FF8C00;
+}
+
+table#t{
+  height:100px;
+  text-align : left;
+}
+
+table#t,th{
+  text-align : center;
+  padding: 5px;
+}
+
+td{
+  padding: 5px;
+}
+
+#t{
+  border-spacing:0px;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.hobbies_div, .education_div, .link, .usefull_links{
+  border-spacing:0px;
+  padding: 20px;
+  width: 76%;
+  margin-left: 10.5%;
+  margin-right: 10%;
+  color: white;
+  background-color: silver;
+}
+
+.quote{
+  border-spacing:0px;
+  padding: 20px;
+  width: 76%;
+  margin-left: 10.5%;
+  margin-right: 10%;
+  color: black;
+  background-color: lightgoldenrodyellow;
+}
+
+.hobbies, .education, .jobs, .quote_nam, .links{
+  color: red;
+}
+
+.t4{
+  font-weight: bold;
+  color: #e00e0e;
+}
+
+a:hover{
+  color: lightslategray;
+} 
